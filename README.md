@@ -1,7 +1,5 @@
-# Projeto-de-M-3-individual
+# Proposta de projeto de módulo 3 - Individual
 Json-Server, API Rest (Oficina Mecânica)
-
-<h1>Proposta de projeto de módulo 3 - Individual</h1>
 
 - Acesso ao servidor remoto: (https://projeto-m-3-json-server.onrender.com)
 
